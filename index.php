@@ -17,7 +17,7 @@
           />
         </div>
         <div class="overlap-group3">
-          <div class="register valign-text-middle border-class-1 quicksand-medium-blue-36px"><a href = "./register-form.html">REGISTER</a></div>
+          <div class="register valign-text-middle border-class-1 quicksand-medium-blue-36px"><a href = "./register-form.php">REGISTER</a></div>
         </div>
         <img
           class="fernando-pidrilio"
@@ -28,7 +28,7 @@
         class="button-bg"
         src="https://anima-uploads.s3.amazonaws.com/projects/5ffad3a63fd314155b2a5120/releases/5ffad3ce523371ab7e02d28d/img/button-bg@2x.svg"
       />
-      <div class="name-1 valign-text-middle border-class-1 quicksand-medium-storm-dust-36px"><a href = "./log-in.html">LOG IN</a></div>
+      <div class="name-1 valign-text-middle border-class-1 quicksand-medium-storm-dust-36px"><a href = "./log-in.php">LOG IN</a></div>
     </div>
     <img
       class="arrow-1"
@@ -42,7 +42,7 @@
           class="rectangle-1"
           src="https://anima-uploads.s3.amazonaws.com/projects/5ffad3a63fd314155b2a5120/releases/5ffad3ce523371ab7e02d28d/img/rectangle-1@1x.gif"
         />
-        <h1 class="h4 valign-text-middle border-class-1 quicksand-medium-black-72px">duudooduudooduuudooduudooduudoo</h1>
+        <h1 class="h4 valign-text-middle border-class-1 quicksand-medium-black-72px">Welcome to Rialto!</h1>
       </div>
       <div class="name-2 valign-text-middle border-class-1 quicksand-medium-storm-dust-24px">SWIPE LEFT</div>
     </div>

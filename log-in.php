@@ -20,7 +20,7 @@
           />
         </div>
         <div class="overlap-group3">
-          <div class="register valign-text-middle border-class-1 quicksand-medium-blue-36px"><a href = "./register-form.html">REGISTER</a></div>
+          <div class="register valign-text-middle border-class-1 quicksand-medium-blue-36px"><a href = "./register-form.php">REGISTER</a></div>
         </div>
         <img
           class="fernando-pidrilio"
@@ -31,31 +31,20 @@
         class="button-bg"
         src="https://anima-uploads.s3.amazonaws.com/projects/5ffad3a63fd314155b2a5120/releases/5ffad3ce523371ab7e02d28d/img/button-bg@2x.svg"
       />
-      <div class="name-1 valign-text-middle border-class-1 quicksand-medium-storm-dust-36px"><a href = "./log-in.html">LOG IN</a></div>
+      <div class="name-1 valign-text-middle border-class-1 quicksand-medium-storm-dust-36px"><a href = "./log-in.php">LOG IN</a></div>
     </div>
     <div class="auto-flex1">
       <div class="auto-flex">
         <h1 class="welcome-back border-class-1 quicksand-bold-ebony-clay-64px">Welcome Back!</h1>
         <div class="ready-to-connect border-class-1 quicksand-light-ebony-clay-30px">Ready to connect?</div>
         
-        <form method="POST" action="./php/log_in.php"> <!--refresh page when submitted-->
+        <form method="POST" action="./php/log-in.php"> <!--refresh page when submitted-->
 
             <input type="hidden" id="submitLoginUserRequest" name="submitLoginUserRequest">
         
         <div class="overlap-group">
           <div class="your-email border-class-1 quicksand-medium-french-gray-24px">Your Email</div>
-          <div class="auto-flex3">
-            <div class="emailrialtoca border-class-1 manrope-medium-mercury-14px"><input type="text" name="userName" placeholder="email@rialto.ca"> </div>
-            <div class="overlap-group2">
-              <img
-                class="path"
-                src="https://anima-uploads.s3.amazonaws.com/projects/5ffad3a63fd314155b2a5120/releases/5ffae4efae9df9314027ebed/img/path@2x.png"
-              />
-              <img
-                class="icon-color"
-                src="https://anima-uploads.s3.amazonaws.com/projects/5ffad3a63fd314155b2a5120/releases/5ffae4efae9df9314027ebed/img/--icon-color@2x.svg"
-              />
-            </div>
+          <div class="enter-you-password border-class-1 manrope-medium-mercury-14px"><input type="text" name="userName" placeholder="email@rialto.ca">
           </div>
           <div class="rectangle-7"></div>
           <div class="password border-class-1 manrope-medium-french-gray-24px">Password</div>

@@ -19,7 +19,7 @@
           />
         </div>
         <div class="overlap-group5">
-          <div class="register valign-text-middle border-class-1 quicksand-medium-blue-36px"><a href = "./register-form.html">REGISTER</a></div>
+          <div class="register valign-text-middle border-class-1 quicksand-medium-blue-36px"><a href = "./register-form.php">REGISTER</a></div>
         </div>
         <img
           class="fernando-pidrilio"
@@ -30,7 +30,7 @@
         class="button-bg"
         src="https://anima-uploads.s3.amazonaws.com/projects/5ffad3a63fd314155b2a5120/releases/5ffad3ce523371ab7e02d28d/img/button-bg@2x.svg"
       />
-      <div class="name valign-text-middle border-class-1 quicksand-medium-storm-dust-36px"><a href = "./log-in.html">LOG IN</a></div>
+      <div class="name valign-text-middle border-class-1 quicksand-medium-storm-dust-36px"><a href = "./log-in.php">LOG IN</a></div>
     </div>
     <div class="overlap-group">
       <div class="x-appbar">
@@ -45,7 +45,7 @@
           />
         </div>
         <div class="overlap-group5">
-          <div class="register valign-text-middle border-class-1 quicksand-medium-blue-36px"><a href = "./register-form.html">REGISTER</a></div>
+          <div class="register valign-text-middle border-class-1 quicksand-medium-blue-36px"><a href = "./register-form.php">REGISTER</a></div>
         </div>
         <img
           class="fernando-pidrilio"
@@ -56,7 +56,7 @@
         class="button-bg"
         src="https://anima-uploads.s3.amazonaws.com/projects/5ffad3a63fd314155b2a5120/releases/5ffad3ce523371ab7e02d28d/img/button-bg@2x.svg"
       />
-      <div class="name valign-text-middle border-class-1 quicksand-medium-storm-dust-36px"><a href = "./log-in.html">LOG IN</a></div>
+      <div class="name valign-text-middle border-class-1 quicksand-medium-storm-dust-36px"><a href = "./log-in.php">LOG IN</a></div>
     </div>
     <div class="auto-flex1">
       <div class="auto-flex">
